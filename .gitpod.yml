@@ -10,3 +10,6 @@ ports:
 # List the start up tasks. You can start them in parallel in multiple terminals. See https://www.gitpod.io/docs/44_config_start_tasks/
 #tasks:
 #  - command: cd aspnetcoreapp/ && dotnet run --urls http://0.0.0.0:5001
+vscode:
+  extensions:
+    - cweijan.vscode-mysql-client2@2.8.7:ZcsJWdWH6JqLB6jm7olSsg==
